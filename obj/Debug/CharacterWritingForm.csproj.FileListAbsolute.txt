@@ -1,0 +1,13 @@
+C:\Users\jacob\source\repos\CharacterWritingForm\bin\Debug\CharacterWritingForm.exe.config
+C:\Users\jacob\source\repos\CharacterWritingForm\bin\Debug\CharacterWritingForm.exe
+C:\Users\jacob\source\repos\CharacterWritingForm\bin\Debug\CharacterWritingForm.pdb
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.Form1.resources
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.Properties.Resources.resources
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.exe
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.pdb
+C:\Users\jacob\source\repos\CharacterWritingForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jacob\source\repos\CharacterWritingForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jacob\source\repos\CharacterWritingForm\obj\Debug\CharacterWritingForm.csproj.CopyComplete
